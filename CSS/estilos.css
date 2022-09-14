@@ -1,0 +1,22 @@
+/* Este es un ejemplo en comentario */
+/* ctrl + } */
+/* Aplicamos CSS son el selector de elemento */
+
+h1{
+    color: blue;
+
+}
+
+/* Seleccionar por id se hace con # */
+#h1ListaDesFrutas{
+    color: red;
+    text-align: center;
+}
+
+li{
+    color: brown;
+}
+
+ul{
+    list-style-type: square;
+}
